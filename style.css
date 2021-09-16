@@ -1,0 +1,23 @@
+h1{
+    color: blue;          
+    }
+
+*{
+    border : solid;
+}
+.header{
+    display:flex;
+    justify-content: space-between;
+    background-color: aqua;
+}
+.pictures{
+    display:flex;
+    justify-content: space-evenly;
+    flex-direction: row ;
+}
+.footer{
+    display:flex;
+    justify-content: flex-end;
+}
+
+        
